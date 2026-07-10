@@ -1,4 +1,4 @@
-# IMAGENET-ResNet50-Object-Recognition
+#  IMAGENET-ResNet50-Object-Recognition
 
 ## Project Description
 In this project, we developed a model capable of recognizing various objects in the ImageNet dataset using the ResNet50 architecture. ResNet50 has a well-known success among deep learning models and offers a wide range of applications. My project aims to explore current technological developments in the field of object recognition.
